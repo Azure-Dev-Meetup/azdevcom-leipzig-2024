@@ -7,9 +7,9 @@ languages:
         disabled: false
         menus:
             main:
-                - identifier: about
-                  pageRef: /about
-                  weight: 10
+                # - identifier: about
+                #   pageRef: /about
+                #   weight: 10
                 - identifier: sessions
                   pageRef: /sessions
                   weight: 20
@@ -100,9 +100,9 @@ languages:
         disabled: false
         menus:
             main:
-                - identifier: about
-                  pageRef: /about
-                  weight: 10
+                # - identifier: about
+                #   pageRef: /about
+                #   weight: 10
                 - identifier: sessions
                   pageRef: /sessions
                   weight: 20
