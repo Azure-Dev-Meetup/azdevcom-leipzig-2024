@@ -66,7 +66,7 @@ languages:
         params:
             # Open Graph / X (Twitter) Cards
             description: |
-                Azure Developer Community Day is a full-day free event hosted at Microsoft Deutschland GmbH
+                Azure Developer Community Day is a full-day free event hosted at SoftwareOne in Leipzig
                 for developers and IT pros working with Microsoft's cloud platform.
             themes:
                 event:
@@ -82,7 +82,7 @@ languages:
                         We offer a community-driven platform that emphasizes meaningful experiences, accessibility, 
                         and diversity. Best of all, Azure Developer Community Day is a free event open to everyone. 
                         This year, thanks to the support of other developer communities, Meetup groups, and our sponsors, 
-                        we’re excited to host this in-person event at Microsoft Deutschland.
+                        we’re excited to host this in-person event at SoftwareOne.
                     directions: |
                         #### By Public Transportation
 
@@ -177,7 +177,7 @@ languages:
                         Wir bieten eine community-gesteuerte Plattform, die auf bereichernde Erfahrungen, Zugänglichkeit 
                         und Vielfalt setzt. Das Beste daran: Azure Developer Community Day ist ein kostenloses Event, das 
                         für alle offen ist. In diesem Jahr freuen wir uns, dank der Unterstützung anderer Entwickler-Communities, 
-                        Meetup-Gruppen und unserer Sponsoren, ein Vor-Ort-Event bei Microsoft Deutschland anzubieten zu können.
+                        Meetup-Gruppen und unserer Sponsoren, ein Vor-Ort-Event bei SoftwareOne in Leipzig anzubieten zu können.
                     directions: |
                         #### Mit den Öffentlichen:
 
@@ -226,11 +226,17 @@ params:
             images:
                 logo: logos/image.png
                 titleBackground: images/background.png
-                location: images/microsoft.png
+                location: images/pexels-scottwebb-1048039.webp
             sponsors:
+                - logo: logos/softwareone-logo-blk.svg
+                  url: https://www.softwareone.com/
+                  name: 'SoftwareOne'
                 - logo: logos/medialesson-logo.svg
                   url: https://www.media-lesson.com/
                   name: 'Medialesson GmbH'
+                - logo: logos/CGI_logo.svg
+                  url: https://www.cgi.com/
+                  name: 'CGI Deutschland'
             # partners:
             #     - logo: logos/medialesson-logo.svg
             #       url: https://www.media-lesson.com/
