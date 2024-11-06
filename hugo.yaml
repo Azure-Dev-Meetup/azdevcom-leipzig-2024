@@ -70,8 +70,8 @@ languages:
                 for developers and IT pros working with Microsoft's cloud platform.
             themes:
                 event:
-                    slogan: 1 Day, 4 Tracks, and more than 30 Experts
-                    location: Munich, Germany
+                    slogan: 1 Day, 3 Tracks, and more than 20 Experts
+                    location: Leipzig, Germany
                     description: |
                         Azure Developer Community Day is a conference designed for developers, particularly 
                         those working with Microsoft Azure, Power Platform, or Cloud Native technologies. 
@@ -85,12 +85,7 @@ languages:
                         we’re excited to host this in-person event at Microsoft Deutschland.
                     directions: |
                         #### By Public Transportation
-                        U6, stop Nordfriedhof and approx. 650m walk
-                        Tram 23, stop Anni-Albers Straße and approx. 650m walk
 
-                        #### By Car:
-                        A9, exit München Schwabing
-                        **(There is no parking available at the event location)**
                     aboutUs: |
                         ### Event Team 2024
                         We are happy to have this strong team for the event this year. Besides their role as speakers, 
@@ -169,8 +164,8 @@ languages:
                 Website-Generator HUGO vorstellt.
             themes:
                 event:
-                    slogan: 1 Tag, 4 Tracks, mehr als 30 Experten
-                    location: München
+                    slogan: 1 Tag, 3 Tracks, mehr als 20 Experten
+                    location: Leipzig, Deutschland
                     description: |
                         Der Azure Developer Community Day ist eine Konferenz für Entwickler, insbesondere für diejenigen, 
                         die mit Microsoft Azure, der Power Platform oder Cloud Native-Technologien arbeiten. 
@@ -185,12 +180,9 @@ languages:
                         Meetup-Gruppen und unserer Sponsoren, ein Vor-Ort-Event bei Microsoft Deutschland anzubieten zu können.
                     directions: |
                         #### Mit den Öffentlichen:
-                        U6, Haltestelle Nordfriedhof und ca. 650m zu Fuß
-                        Tram 23, Haltestelle Anni-Albers Straße und ca. 650m zu Fuß
+
 
                         #### Mit dem Auto:
-                        A9, Ausfahrt München Schwabing
-                        (Es gibt vor Ort keine unmittelbaren Parkmöglichkeiten)
 
                     aboutUs: |
                         ### Event Team 2024
@@ -213,17 +205,18 @@ params:
             # 👇 Fetch the ID of your event's API endpoint from
             # 👇 https://sessionize.com/app/organizer/schedule/api/0
             # 👇 and enter it here.
-            startDate: 2024-12-03
-            endDate: 2024-12-03
+            startDate: 2024-12-05
+            endDate: 2024-12-05
             address:
-                - Microsoft Deutschland GmbH
-                - Walter-Gropius-Straße 5
-                - 80807 München
+                - SoftwareOne
+                - Blochstraße 1
+                - 04329 Leipzig
                 - Germany
             map:
-                embeddableMapUrl: //umap.openstreetmap.de/de/map/unbenannte-karte_68282?scrollWheelZoom=false
-                viewLargerMapUrl: //umap.openstreetmap.de/de/map/unbenannte-karte_68282
-                # Link to edit the map: https://umap.openstreetmap.de/de/map/anonymous-edit/68282:Kc_Es1Pem4s05Fz9ptseaKR7P9lb3zwc4zio8Enegec
+                embeddableMapUrl: //umap.openstreetmap.de/de/map/softwareone_72840?scrollWheelZoom=false
+                viewLargerMapUrl: //umap.openstreetmap.de/de/map/softwareone_72840
+                # Link to create a new map: https://umap.openstreetmap.de/de/map/new/
+                # Edit Link: https://umap.openstreetmap.de/de/map/anonymous-edit/72840:nKO01W2xSB6v_JU2P6ZVGLFpwT6dScLTAZMCR3d7nH8
             callToAction:
                 eventbrite:
                     eventId: 940186291507
@@ -243,7 +236,8 @@ params:
             #       url: https://www.media-lesson.com/
             #       name: 'Medialesson GmbH'
             organizers:
-                - 'bc9e5e5b-6188-4cad-85a1-cff049112520'
+                - 'aab87efe-ffdd-4ffb-9128-4087b9fdd02e'
+                - 'd4f908c9-1cdc-4690-8b74-3bf3145473c5'
                 - 'a5b09459-7526-4459-830d-7fb2bcdd9048'
             # featuredSessions:
             #     - '729572'
@@ -251,6 +245,6 @@ params:
             #     - '729579'
             colors:
                 primaryLighter: '#5CB1E8'
-                primary: '#d3006a'
-                primaryDarker: '#6b1fa7'
+                primary: '#0086d3'
+                primaryDarker: '#631fa7'
                 track: '#15B8CA'
