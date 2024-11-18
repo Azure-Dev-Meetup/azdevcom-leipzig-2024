@@ -221,6 +221,7 @@ params:
             callToAction:
                 eventbrite:
                     eventId: 1075524515779
+            favicon: logos/image.png
             socialLinks:
                 xUrl: https://x.com/azdevcom
                 linkedinUrl: https://www.linkedin.com/showcase/azdevcom
