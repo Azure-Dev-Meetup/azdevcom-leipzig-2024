@@ -160,8 +160,8 @@ languages:
         params:
             # Open Graph / X (Twitter) Cards
             description: |
-                Eine Demo-Website die das Thema "Event" für den statischen
-                Website-Generator HUGO vorstellt.
+              Der Azure Developer Community Day ist eine ganztägige kostenlose Veranstaltung bei SoftwareOne in Leipzig
+              für Entwickler und IT-Profis, die mit Microsofts Cloud-Plattform arbeiten.
             themes:
                 event:
                     slogan: 1 Tag, 3 Tracks, mehr als 20 Experten
