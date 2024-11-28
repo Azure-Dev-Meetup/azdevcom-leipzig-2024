@@ -73,6 +73,8 @@ languages:
                     slogan: 1 Day, 3 Tracks, and more than 20 Experts
                     location: Leipzig, Germany
                     description: |
+                        *Unfortunately, the event has been canceled.*
+                        
                         Azure Developer Community Day is a conference designed for developers, particularly 
                         those working with Microsoft Azure, Power Platform, or Cloud Native technologies. 
                         It’s also ideal for anyone looking to get started with these platforms. The event 
@@ -167,6 +169,8 @@ languages:
                     slogan: 1 Tag, 3 Tracks, mehr als 20 Experten
                     location: Leipzig, Deutschland
                     description: |
+                        *Leider musste das Event abgesagt werden.*
+                        
                         Der Azure Developer Community Day ist eine Konferenz für Entwickler, insbesondere für diejenigen, 
                         die mit Microsoft Azure, der Power Platform oder Cloud Native-Technologien arbeiten. 
                         Sie richtet sich auch an alle, die in diese Bereiche einsteigen möchten. 
@@ -201,7 +205,7 @@ params:
     themes:
         event:
             sessionizeId: oz2tr38m
-            title: Azure Developer Community Day Leipzig
+            title: 'AzDevCom Leipzig (Cancelled)'
             shortTitle: "#azdevcom Leipzig"
             # 👇 Fetch the ID of your event's API endpoint from
             # 👇 https://sessionize.com/app/organizer/schedule/api/0
